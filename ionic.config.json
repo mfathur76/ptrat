@@ -1,0 +1,7 @@
+{
+  "name": "ptrat",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
